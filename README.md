@@ -1,5 +1,5 @@
 # tietokilpailu
-Javalla simple kirjastoa käytten tehty graafinen tietokilpailu USA:n osavaltioista
+Javalla JSON.simple kirjastoa käyttäen tehty graafinen tietokilpailu USA:n osavaltioista. Peli lukee JSON tiedostosta kysymykset ja vastaukset
 
 # Luokat
 Main: Ohjaa muita luokkia ja käyttää hashsettiä
